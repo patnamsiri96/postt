@@ -1,0 +1,3 @@
+git init
+add to the statging area
+coomit to the local repo 
